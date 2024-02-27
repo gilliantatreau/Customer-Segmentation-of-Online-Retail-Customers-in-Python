@@ -6,7 +6,10 @@ Customer segmentation is the division of all customers into groups that share si
 
 
 ## How to Run Code Locally
-- Run Python Code file using Jupyter Notebook server (such as Anaconda) for Python code
+- Clone repo
+- Go into repository on local device
+- Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
+
 
 ## Libraries Used
 - pandas
